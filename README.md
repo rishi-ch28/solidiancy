@@ -1,2 +1,0 @@
-# solidiancy
-Solidiancy Website 
